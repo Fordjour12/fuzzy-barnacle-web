@@ -8,7 +8,7 @@
 	Aliquid ex iusto exercitationem vitae enim magnam.
 </p>
 
-<div class="flex justify-center">
-	<Button href="/yellow/login/" class="mr-4">Log In</Button>
-	<Button href="/yellow/signup/">Sign Up</Button>
+<div class="flex">
+	<Button href="/yellow/login/" class="mr-4 w-full">Log In</Button>
+	<Button href="/yellow/signup/" class="w-full">Sign Up</Button>
 </div>
